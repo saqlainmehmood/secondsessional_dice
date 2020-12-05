@@ -21,7 +21,7 @@ class _MyAppState extends State<MyApp>{
     // TODO: implement build
     return SplashScreen(
         seconds: 14,
-        title: new Text('Saqlain Mehmood(FA17-BSE-072)'),
+        title: new Text('Saqlain Mahmood(FA17-BSE-072)'),
         image: new Image.asset('assets/ss.jpg'),
         backgroundColor: Colors.white,
         photoSize: 100.0,
