@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp>{
         seconds: 14,
         title: new Text('Saqlain Mahmood(FA17-BSE-072)'),
         image: new Image.asset('assets/ss.jpg'),
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.orange,
         photoSize: 100.0,
         loaderColor: Colors.red,
         navigateAfterSeconds: MainScreen(),
