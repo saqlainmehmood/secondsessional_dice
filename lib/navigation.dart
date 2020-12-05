@@ -71,7 +71,7 @@ class _HomePageState extends State<HomePage> {
         padding: EdgeInsets.zero,
         children: [
     UserAccountsDrawerHeader(
-    accountName: Text('Saqlain Mehmood'),
+    accountName: Text('Saqlain Mahmood'),
         accountEmail: Text('saqlainmehmood9@gmail.com'),
         currentAccountPicture: CircleAvatar(
 
